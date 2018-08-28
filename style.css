@@ -1,0 +1,12 @@
+body{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 15px;
+	background: linear-gradient(to right, #d2ea84, #2eacc2);
+	color: white;
+}
+.glass{
+	margin: 10px,10px,10px,10px;
+	border-radius: 5px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
